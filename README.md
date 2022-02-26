@@ -26,9 +26,9 @@ _Infosys Ltd, Trivandrum, India / Aug 2015 – Aug 2019_
 - Knowledge transfer to the entire team as well as ramping up new team members making them ready for the challenge.
 
 **Achievements**
-- **Seneca President's Honour List - Fall 2019**
-- **Award for Excellence - Best Rookie 2016-17** _Infosys Ltd, Trivandrum DC_
-- **Scholarship for B.Tech Degree from Government of Kerala**
+- <mark>**Seneca President's Honour List - Fall 2019**</mark>
+- <mark>**Award for Excellence - Best Rookie 2016-17** _Infosys Ltd, Trivandrum DC_</mark>
+- <mark>**Scholarship for B.Tech Degree from Government of Kerala**</mark>
 
 **Education**
 
