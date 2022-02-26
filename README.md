@@ -1,6 +1,3 @@
-## Abin Lathikumar
-
-#### Angular | UI Developer | Not Limited
 
 **Experience**
 
