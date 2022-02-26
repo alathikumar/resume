@@ -1,3 +1,3 @@
 ## Digital CV
 
-Resume goes here..
+Resume under construction..
