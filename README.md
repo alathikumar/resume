@@ -1,5 +1,5 @@
 
-**Experience**
+**Experiences**
 
 **Senior Developer**
 
@@ -24,3 +24,18 @@ _Infosys Ltd, Trivandrum, India / Aug 2015 – Aug 2019_
 - Collaboratively working with internal and external stakeholders
 - Techno-Functional Developer in delivering the project right from the scratch till the production.
 - Knowledge transfer to the entire team as well as ramping up new team members making them ready for the challenge.
+
+**Achievements**
+- **Seneca President's Honour List - Fall 2019**
+- **Award for Excellence - Best Rookie 2016-17** _Infosys Ltd, Trivandrum DC_
+- **Scholarship for B.Tech Degree from Government of Kerala**
+
+**Education**
+
+**Graduate Certificate Program** - _Database Application Developer_
+> Seneca College of Applied Arts & Technology 2019-2020
+> GPA - 3.9/4
+
+**Bachelor of Technology** - _Computer Science and Engineering_
+> University of Kerala
+> CGPA - 8.13/10
